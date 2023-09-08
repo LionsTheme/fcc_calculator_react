@@ -6,7 +6,7 @@ This project is part of the Free Code Camp's front-end track. Created with creat
 
 ## Try it
 
-You can find the demo link [here](https://fcccalculatorbylisa.netlify.app/)
+You can find the demo link [here](https://fcc-calculator-react.vercel.app/)
 
 ## Technologies
 
